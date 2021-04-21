@@ -1,0 +1,5 @@
+Bundle-Name: UpdatePwOverride
+Bundle-SymbolicName: com.liferay.support
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.support.constants
+-sources: true
